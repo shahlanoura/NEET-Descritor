@@ -1,2 +1,2 @@
-# NEET-Descritor
+# NEET-Descriptor
 NEET-Descriptor with Agent
