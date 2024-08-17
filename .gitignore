@@ -13,12 +13,12 @@ build/
 .ipynb_checkpoints
 *.ipynb
 
-# Virtual environments
-venv/
-env/
-ENV/
-.venv/
-.env
+#  Virtual environments
+# venv/
+# env/
+# ENV/
+# .venv/
+ .env
 
 # Data and models
 data/
