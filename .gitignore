@@ -1,0 +1,73 @@
+#ignore files
+# Python related
+*.py[cod]
+_pycache_/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# Data and models
+data/
+datasets/
+*.csv
+*.tsv
+*.json
+*.xml
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Model checkpoints
+checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.pb
+*.onnx
+*.joblib
+*.pkl
+
+# TensorBoard
+logs/
+*.tfevents
+
+# ChromaDB
+chromadb/
+*.chroma
+
+# Environment files
+.env
+*.env
+.env.
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.iml
+# vector db
+/db/
