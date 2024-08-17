@@ -7,3 +7,4 @@ python-dotenv==1.0.1
 scikit_learn
 streamlit==1.37.1
 fitz
+chromadb==0.4.24
