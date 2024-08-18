@@ -16,7 +16,7 @@ pyyaml
 requests 
 tenacity
 embedchain 
-chromadb
+chromadb==0.4.24
 sqlalchemy 
 psycopg2-binary
 
