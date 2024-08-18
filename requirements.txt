@@ -19,4 +19,6 @@ embedchain
 chromadb==0.4.24
 sqlalchemy 
 psycopg2-binary
+sqlite3==3.46.1
+
 
