@@ -17,4 +17,6 @@ requests
 tenacity
 embedchain 
 chromadb
+sqlalchemy 
+psycopg2-binary
 
