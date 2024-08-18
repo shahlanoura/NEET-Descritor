@@ -15,4 +15,6 @@ pydantic
 pyyaml 
 requests 
 tenacity
+ embedchain 
+ chromadb
 
