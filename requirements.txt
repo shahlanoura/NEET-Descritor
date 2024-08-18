@@ -10,4 +10,9 @@ chroma-hnswlib
 docx2txt
 pypika
 google-crc32c   
+aiohttp 
+pydantic 
+pyyaml 
+requests 
+tenacity
 
