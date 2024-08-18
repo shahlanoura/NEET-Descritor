@@ -17,5 +17,4 @@ requests
 tenacity
 embedchain 
 chromadb
-sqlite3==3.46.1
 
