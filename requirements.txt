@@ -10,7 +10,7 @@ pypdf
 PyMuPDF
 python-dotenv
 chromadb
-setuptools
+setuptools>=65.0
 packaging
 wheel
 pysqlite3-binary
