@@ -1,19 +1,18 @@
 __import__ ('pysqlite3')
 import sys
-import setuptools
 sys.modules['sqlite3']=sys.modules.pop('pysqlite3')
 
 import streamlit as st
 import json
 import re
 import  fitz
-
+import numpy as np
 import logging
 import CrewAgent.Chemistry_agent as Chemistry_agent
 import CrewAgent.Physics_agent as Physics_agent
 import CrewAgent.Biology_agent as Biology_agent
 from content_relevent import is_content_relevant, subject_keywords
-import numpy as np
+
 
 
 # Set page configuration
