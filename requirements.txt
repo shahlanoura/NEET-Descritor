@@ -18,3 +18,4 @@ opentelemetry-api
 opentelemetry-sdk
 langchain-openai
 PyPDF2
+scikit-learn
