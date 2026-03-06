@@ -1,6 +1,6 @@
-streamlit==1.37.1
-crewai==0.51.1
-crewai-tools==0.8.3
+streamlit
+crewai
+crewai-tools
 langchain
 langchain-community==0.2.12
 langchain-core==0.2.33
