@@ -1,7 +1,7 @@
 streamlit==1.37.1
 crewai==0.51.1
 crewai-tools==0.8.3
-langchain==0.2.14
+langchain
 langchain-community==0.2.12
 langchain-core==0.2.33
 groq
@@ -10,9 +10,10 @@ pypdf
 PyMuPDF
 python-dotenv
 chromadb
-setuptools
+setuptools>=69.0.0
 packaging
 wheel
 pysqlite3-binary
 opentelemetry-api
 opentelemetry-sdk
+langchain-openai
