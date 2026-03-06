@@ -10,7 +10,9 @@ pypdf
 PyMuPDF
 python-dotenv
 chromadb
-setuptools>=65.0
+setuptools
 packaging
 wheel
 pysqlite3-binary
+opentelemetry-api
+opentelemetry-sdk
