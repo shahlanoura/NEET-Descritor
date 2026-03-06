@@ -17,3 +17,4 @@ pysqlite3-binary
 opentelemetry-api
 opentelemetry-sdk
 langchain-openai
+PyPDF2
