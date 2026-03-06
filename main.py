@@ -1,7 +1,6 @@
 __import__ ('pysqlite3')
 import sys
 import setuptools
-import pkg_resources
 sys.modules['sqlite3']=sys.modules.pop('pysqlite3')
 
 import streamlit as st
